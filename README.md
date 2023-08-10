@@ -1,6 +1,6 @@
 # Simple-Bad-Images-Remover
 
-This NC-AI™ Simple-Bad-Images-Remover build from CLIP+MLP architecture by Python script. This script is using Aesthetic scoring method to removing bad images from the folder by utilizing CLIP "ViT-L/14".
+This NC-AI™ Simple-Bad-Images-Remover build from CLIP+MLP architecture by Python script. This script is using Aesthetic scoring method to removing bad images from the folder by utilizing CLIP "ViT-L/14". The script is adapted from [improved-aesthetic-predictor](https://github.com/christophschuhmann/improved-aesthetic-predictor) using pre-trained MLP, sac+logos+ava1-l14-linearMSE.pth 
 
 ## Prerequisites
 
