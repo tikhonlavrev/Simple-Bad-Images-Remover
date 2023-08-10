@@ -4,7 +4,7 @@ This NC-AI™ Simple-Bad-Images-Remover build from CLIP+MLP architecture by Pyth
 
 ## Prerequisites
 
-Make sure you have Python and CUDA toolkit 11.7 with torch for CUDA 11.7. If you already have one that run on different version maybe the NC-AI℠ Simple Bad Images Remover will be run from CPU
+Make sure you have Python and CUDA toolkit 11.7 with torch for CUDA 11.7. If you already have one that run on different version maybe the NC-AI™ Simple Bad Images Remover will be run from CPU
 
 ## Installation
 
