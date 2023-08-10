@@ -21,3 +21,7 @@ By default, the threshold configuration is set to 14. You can change it using th
 python remove_bad_images.py -th 16 -d <bad_images_location>
 ```
 Replace `<bad_images_location>` with the path to the directory containing your bad images. The supported image format is .jpg, .jpeg, and .png
+
+## Recommended Threshold
+I've tested with some picture, here the recommended threshold so far:
+Anime Style: 14 (It's enough for acceptable looking art)
