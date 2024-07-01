@@ -1,3 +1,13 @@
+# July 1st 2024 update
+
+We've update the script into better scoring performance and more stable right now. There is changes includding:
+
+- OCR library changes, from pytesseract into easyOCR for faster OCR performace
+- Normalized scoring, minus score only appeared when text is detected
+- Multi-threading that I hope is running (it eat my 40 cores CPU though, so I don't know if this will working in other machine)
+- Save state function
+- Aesthetic score is outputed in CSV format
+
 # Simple-Bad-Images-Remover
 
 This NC-AI™ Simple-Bad-Images-Remover build from CLIP+MLP architecture by Python script. This script is using Aesthetic scoring method to removing bad images from the folder by utilizing CLIP "ViT-L/14". The script is adapted from [improved-aesthetic-predictor](https://github.com/christophschuhmann/improved-aesthetic-predictor) using pre-trained MLP, sac+logos+ava1-l14-linearMSE.pth 
